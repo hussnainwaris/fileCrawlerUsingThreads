@@ -1,0 +1,4 @@
+.DS_Store : /Users/macbookpro/Desktop/dir/subdir/.DS_Store
+file document.txt : /Users/macbookpro/Desktop/dir/subdir/file document.txt
+file dox.txt : /Users/macbookpro/Desktop/dir/subdir/file dox.txt
+newdoc.txt : /Users/macbookpro/Desktop/dir/subdir/newdoc.txt
